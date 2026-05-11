@@ -1,18 +1,16 @@
-# Discord Ticket Bot (Python)
+# 🎫 Discord Ticket Bot (Python)
 
-## Features
-- /ticket slash command
-- Create private ticket channels
+A simple Discord ticket bot using **discord.py 2.x** with slash commands.
+
+---
+
+## ✨ Features
+- `/ticket` slash command
+- Button-based ticket creation
+- Private ticket channels
 - Close ticket button
-- Works with Render hosting
+- Easy Render deployment
 
-## Setup
+---
 
-### Install dependencies
-pip install -r requirements.txt
-
-### Run locally
-python main.py
-
-### Environment variable
-TOKEN=your_bot_token
+## 📁 Project Structure
